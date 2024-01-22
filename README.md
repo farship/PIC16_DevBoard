@@ -1,4 +1,4 @@
-These are based on the university one, and I don't actually know if it works.
+This is based on the university one, and I don't actually know if it works.
 
 They used PIC16F84A for this devlopment board. https://ww1.microchip.com/downloads/en/devicedoc/35007b.pdf
 
