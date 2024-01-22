@@ -1,6 +1,6 @@
 These are based on the university one, and I don't actually know if it works.
 
-They used PIC16F84A for this devlopment board.
+They used PIC16F84A for this devlopment board. https://ww1.microchip.com/downloads/en/devicedoc/35007b.pdf
 
 This was made almost entirely to see how easy it would be.
 
